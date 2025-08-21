@@ -76,6 +76,17 @@
 
 ---
 
+
+## 📈 코딩 활동
+
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/jeongmuya"/>
+  </a>
+</div>
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jeongmuya&color=blueviolet&style=for-the-badge"/>
 </div>
