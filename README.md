@@ -51,8 +51,8 @@
 ## 📊 GitHub 통계
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeongmuya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmuya&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeongmuya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmuya&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
@@ -73,45 +73,6 @@
 - [ ] 오픈소스 프로젝트에 기여하기
 - [ ] 탄탄한 GitHub 포트폴리오 구축하기
 - [ ] 첫 iOS 개발자 취업하기
-
----
-
-## 📈 코딩 활동
-
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/jeongmuya"/>
-  </a>
-</div>
-
----
-
-## 📚 학습 기록
-
-### 🔥 최근 학습 내용
-- **Combine**: 반응형 프로그래밍 개념과 실제 적용
-- **Optional**: Swift의 Optional 타입과 안전한 처리 방법
-- **Closure & Escaping Closure**: Swift의 클로저 개념과 활용
-- **CoreData**: 데이터 모델링과 CRUD 연산
-
-### 📖 TIL (Today I Learned)
-매일 새롭게 배운 내용을 정리하며 성장하고 있습니다!
-
----
-
-## 📫 연락하기
-
-<div align="center">
-  <a href="mailto:jeongmuya@gmail.com">
-    <img src="https://img.shields.io/badge/이메일-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/링크드인-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://velog.io/@jeongmuya/posts">
-    <img src="https://img.shields.io/badge/블로그-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
-  </a>
-</div>
 
 ---
 
