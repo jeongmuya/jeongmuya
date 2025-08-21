@@ -3,7 +3,7 @@
 
 ## HI
 
-	<img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />
+	<img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
 ## HI
 <!--
 **jeongmuya/jeongmuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
